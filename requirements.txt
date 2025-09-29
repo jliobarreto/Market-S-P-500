@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+scipy
+python-dotenv
+requests
+python-telegram-bot
+pandas-datareader
